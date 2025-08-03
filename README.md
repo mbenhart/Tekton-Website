@@ -1,1 +1,106 @@
 # Tekton-Website.github.io
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tekton Services</title>
+</head>
+<body bgcolor = "black">
+<font color = "yellow">
+<font size = "5">
+
+<body>
+  <h1 style="font-family:verdana;">Tekton's Services</h1>
+  <b>
+  <font color = "orange">
+  <Font size = "4">
+  <p>We are excited to offer our clients a wide variety of construction-related products and services such as:</p>
+  <Font size = "3">
+  </b>
+  <ul>
+  <li>Home Improvement</li>
+  <li>Commercial Contracting</li>
+  <li>BEST PRICE Tools and Equipment</li>
+</ul>
+</body>
+<head>
+
+<font color = "yellow">
+<h3> Home Improvement</h3>
+<body>
+<font color = "orange">
+<p> Our speciality focus is helping <i> you </i> to improve <i> your</i> home. Long list of projects that have been on your to-do list for ages? We've got you covered! From bathroom renovations to kitchen remodels, Tekton is here to help.
+</p>
+ <font color = "yellow">
+
+<h3> Commercial Contracting</h3>
+<body>
+<font color = "orange">
+<p> Are you a contractor with a larger-scale project, and you're looking for some additional hands on deck? Tekton can assist with projects ranging from the construction of office buildings to high schools and everything in between. Our team of professionals will perform an assessment and deliver a quote at <u> no</u> cost. <a href = "mailto: consultations@tekton.com"> contact us via email.</a>
+<ol>
+  <li>Email us using the link above.</li>
+  <li>Set up an appointment for a free consultation.</li>
+  <li>Receive your quote and choose Tekton!</li>
+  <li>Enjoy your newly finished project!</li>
+</ol>
+</p>
+ <font color = "yellow">
+<h3> Best Price Tools and Equipment</h3>
+<body>
+<font color = "orange">
+<p> Have a DIY job in mind, but not sure where to get what you need? Tekton is here to provide you access to high-class tools at a low cost. Click <a href = "https://www.homedepot.com/" target = "_blank"> here</a> to compare our prices to our competitor's.
+</p>
+<script>document.write(document.lastModified);</script>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tekton Services</title>
+</head>
+<body bgcolor = "black">
+<font color = "yellow">
+<font size = "5">
+
+<body>
+  <h1>Tekton's Services</h1>
+  <b>
+  <font color = "orange">
+  <Font size = "4">
+  <p>We are excited to offer our clients a wide variety of construction-related products and services such as:</p>
+  <Font size = "3">
+  </b>
+  <ul>
+  <li>Home Improvement</li>
+  <li>Commercial Contracting</li>
+  <li>BEST PRICE Tools and Equipment</li>
+</ul>
+</body>
+<head>
+
+<font color = "yellow">
+<h3> Home Improvement</h3>
+<body>
+<font color = "orange">
+<p> Our speciality focus is helping <i> you </i> to improve <i> your</i> home. Long list of projects that have been on your to-do list for ages? We've got you covered! From bathroom renovations to kitchen remodels, Tekton is here to help.
+</p>
+ <font color = "yellow">
+
+<h3> Commercial Contracting</h3>
+<body>
+<font color = "orange">
+<p> Are you a contractor with a larger-scale project, and you're looking for some additional hands on deck? Tekton can assist with projects ranging from the construction of office buildings to high schools and everything in between. Our team of professionals will perform an assessment and deliver a quote at <u> no</u> cost. <a href = "mailto: consultations@tekton.com"> contact us via email.</a>
+<ol>
+  <li>Email us using the link above.</li>
+  <li>Set up an appointment for a free consultation.</li>
+  <li>Receive your quote and choose Tekton!</li>
+  <li>Enjoy your newly finished project!</li>
+</ol>
+</p>
+ <font color = "yellow">
+<h3> Best Price Tools and Equipment</h3>
+<body>
+<font color = "orange">
+<p> Have a DIY job in mind, but not sure where to get what you need? Tekton is here to provide you access to high-class tools at a low cost. Click <a href = "https://www.homedepot.com/" target = "_blank"> here</a> to compare our prices to our competitor's.
+<img src="construction.jpeg">
+</p>
+<script>document.write(document.lastModified);</script>
+
+</html>
