@@ -1,8 +1,6 @@
 # Tekton-Website.github.io
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Tekton Services</title>
 </head>
 <body bgcolor = "black">
 <font color = "yellow">
